@@ -13,5 +13,6 @@ MVC
 MySQL
 Express Session
 Deployed Application:
-https://tch-blog.herokuapp.com/
-<img width="1228" alt="Screen Shot 2021-06-30 at 4 30 30 PM" src="https://user-images.githubusercontent.com/26471167/124044145-8fd5c880-d9c1-11eb-83ca-479ae66c9588.png">
+https://th-blogg.herokuapp.com/
+![Screen Shot 2021-07-01 at 8 05 33 PM](https://user-images.githubusercontent.com/26471167/124214847-c1c15a80-daa7-11eb-8ccb-5ba2d317979b.png)
+
